@@ -66,11 +66,27 @@ pip install -r requirements.txt
 
 ## Running InjecDetect
 
+> Note: Trained model files must be present locally. See **Model Files & Setup**.
+
 ```bash
 python injecdetect.py
 ```
 
 Type any prompt at the prompt. Type `exit` or `quit` to stop.
+
+---
+
+## Model Files & Setup
+
+Due to size limitations, trained model files are not included in this repository.
+
+This project will not run unless the required models are available locally.  
+Users must either:
+
+- Train the models themselves or  
+- Request the pre-trained model artifacts from the author.
+
+This follows standard practices for managing large machine learning assets in public repositories.
 
 ---
 
