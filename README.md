@@ -1,4 +1,4 @@
-# InjecDetect
+# InjecDetect: An ML-Based Prompt Injection Detection System
 
 **InjecDetect** is a machine learning based interactive prompt injection detection system designed to identify adversarial prompts submitted to Large Language Models (LLMs). Prompt injection and jailbreak attacks attempt to override system instructions through carefully crafted user inputs.
 
